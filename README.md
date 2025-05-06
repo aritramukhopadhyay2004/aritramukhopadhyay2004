@@ -4,7 +4,7 @@
 
 ## 👋 Hello World!  
 
-I'm **Aritra Mukhopadhyay**, an aspiring **AI/ML** Engineer, passionate about crafting intelligent solutions and building impactful projects. Currently pursuing *B.Tech in CSE (AIML)* at *The Neotia University*, I enjoy working on **Machine Learning, Deep Learning, and Web Development*, and I'm always eager to learn new technologies.  
+I'm **Aritra Mukhopadhyay**, an aspiring **AI/ML** Engineer, passionate about crafting intelligent solutions and building impactful projects. Currently pursuing *B.Tech in CSE (AIML)* at *The Neotia University*, I enjoy working on Machine Learning, Deep Learning, and I'm always eager to learn new technologies.  
 
 ---
 
