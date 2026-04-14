@@ -1,4 +1,4 @@
-# 🚀 Aritra Mukhopadhyay – AIML Enthusiast
+# Aritra Mukhopadhyay – AIML Enthusiast
 
 ![Profile Banner](https://img.shields.io/badge/AI%20ML%20Enthusiast-Transforming%20Ideas%20Into%20Reality-blue?style=for-the-badge)
 
@@ -70,4 +70,4 @@ I'm **Aritra Mukhopadhyay**, an aspiring **AI/ML** Engineer, passionate about cr
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
 
-![Visitor Count](https://komarev.com/ghpvc/?username=arpanpramanik2003&color=green)
+![Visitor Count](https://komarev.com/ghpvc/?username=aritramukhopadhyay2004&color=green)
