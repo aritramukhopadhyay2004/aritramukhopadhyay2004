@@ -69,5 +69,3 @@ I'm **Aritra Mukhopadhyay**, an aspiring **AI/ML** Engineer, passionate about cr
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
-
-![Visitor Count](https://komarev.com/ghpvc/?username=aritramukhopadhyay2004&color=green)
