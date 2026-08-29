@@ -3,8 +3,7 @@
 ### AI/ML Engineer • Full-Stack Developer • Research Enthusiast
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Engineer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-Enthusiast-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%2FML & Deep%20Learning-Enthusiast-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Full--Stack-Developer-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Research-Interested-purple?style=for-the-badge"/>
 </p>
