@@ -34,7 +34,7 @@ My interests include:
 
 
 ---
-#                                                           🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 
 ## Programming Languages
