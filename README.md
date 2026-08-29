@@ -34,9 +34,8 @@ My interests include:
 
 
 ---
-<p align="center">
-<b># 🛠️ Tech Stack </b>
-</p>
+#                                                           🛠️ Tech Stack
+
 
 ## Programming Languages
 
