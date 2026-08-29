@@ -21,8 +21,10 @@ I'm **Aritra Mukhopadhyay**, an aspiring **AI/ML Engineer and Full-Stack Develop
 
 I enjoy building intelligent systems that combine **Machine Learning, Deep Learning, Generative AI, Computer Vision and Full-Stack Development**.
 
+<p align="center">
 My interests include:
-
+</p>
+  
 * 🤖 Machine Learning & Deep Learning
 * 🧠 Generative AI & Large Language Models
 * 🔎 Retrieval-Augmented Generation (RAG)
