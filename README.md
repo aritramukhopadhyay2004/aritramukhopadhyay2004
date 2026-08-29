@@ -38,18 +38,15 @@ My interests include:
 <b># 🛠️ Tech Stack </b>
 </p>
 
-<p align="center">
 ## Programming Languages
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,r" />
 </p>
 
 ---
-<p align="center">
 ## AI / Machine Learning
-</p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
@@ -85,9 +82,7 @@ My interests include:
 </p>
 
 ---
-<p align="center">
 # Generative AI & LLM
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
@@ -354,11 +349,11 @@ Currently focusing on:
 
 # 🏆 Experience & Achievements
 
-### 🏅 Smart India Hackathon
+### Smart India Hackathon
 
 Participated in **Smart India Hackathon 2025**, with the team achieving a position among **Top 10** in the college in SIH 2025.
 
-### 💻 Technical Internships
+### Technical Internships
 
 * Deep Learning Custom Architecture research intern - NIT Durgapur
 * Advanced Linux Internship — Webel
@@ -378,13 +373,13 @@ My long-term goal is to work on **research-driven AI systems that can transition
 # GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aritramukhopadhyay2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritramukhopadhyay2004&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aritramukhopadhyay2004&theme=tokyonight&hide_border=true"/>
@@ -392,7 +387,7 @@ My long-term goal is to work on **research-driven AI systems that can transition
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -408,7 +403,7 @@ My long-term goal is to work on **research-driven AI systems that can transition
 
 ---
 
-## 💡 Philosophy
+## Philosophy
 
 > **"Machine Learning is not magic; it's mathematics, experimentation and engineering."**
 
@@ -417,5 +412,5 @@ My long-term goal is to work on **research-driven AI systems that can transition
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <b>Thanks for visiting my profile! </b>
 </p>
