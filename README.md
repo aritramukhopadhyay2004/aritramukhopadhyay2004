@@ -121,7 +121,7 @@ My interests include:
 
 ---
 
-# 👁️ Computer Vision
+# Computer Vision
 
 * OpenCV
 * Image Processing
@@ -140,7 +140,7 @@ My interests include:
 
 ---
 
-# 🌐 Full-Stack Development
+# Full-Stack Development
 
 ## Frontend
 
@@ -160,7 +160,7 @@ My interests include:
 
 ---
 
-## ⚡ Backend & APIs
+## Backend & APIs
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
@@ -178,7 +178,7 @@ My interests include:
 
 ---
 
-# 🗄️ Databases
+# Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
@@ -194,7 +194,7 @@ My interests include:
 
 ---
 
-# 🔎 RAG & Information Retrieval
+# RAG & Information Retrieval
 
 Currently exploring production-oriented RAG architectures involving:
 
@@ -214,7 +214,7 @@ Currently exploring production-oriented RAG architectures involving:
 
 ---
 
-# ☁️ Cloud, Deployment & Platforms
+# Cloud, Deployment & Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,vercel" />
@@ -241,7 +241,7 @@ Currently exploring production-oriented RAG architectures involving:
 
 ---
 
-# 🧰 Developer Tools
+# Developer Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,docker,postman" />
@@ -262,7 +262,7 @@ Currently exploring production-oriented RAG architectures involving:
 
 ---
 
-# 📊 Data Science & Visualization
+# Data Science & Visualization
 
 <p align="center">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
@@ -284,9 +284,9 @@ Currently exploring production-oriented RAG architectures involving:
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-### 🤖 MANTRA — AI-Powered Task Guidance System
+### MANTRA — AI-Powered Task Guidance System
 
 An AI-powered system designed to guide users through real-world tasks using **LLM-based instructions, computer vision and step verification**.
 
@@ -296,7 +296,7 @@ An AI-powered system designed to guide users through real-world tasks using **LL
 
 ---
 
-### 🌍 Tourism Guide Assistant — RAG System
+### Tourism Guide Assistant — RAG System
 
 A domain-specific **Retrieval-Augmented Generation system** designed to answer tourism-related questions using curated destination knowledge sources.
 
@@ -306,27 +306,7 @@ A domain-specific **Retrieval-Augmented Generation system** designed to answer t
 
 ---
 
-### 📰 NewsVerifier — Fake News Detection
-
-Machine Learning-based fake news classification system using NLP techniques.
-
-**Tech Stack:**
-
-`Python` `Scikit-learn` `NLP` `TF-IDF` `Passive Aggressive Classifier` `Flask`
-
----
-
-### 🧠 Indic Fake News Detector
-
-An NLP-based project focused on fake-news classification for **Indian-language content**.
-
-**Tech Stack:**
-
-`Python` `NLP` `Scikit-learn` `Streamlit` `Machine Learning`
-
----
-
-### 👨‍💻 AI/ML Research & Experiments
+### AI/ML Research & Experiments
 
 Exploring novel approaches to neural network architectures, activation functions, model optimization and efficient deep learning.
 
@@ -340,7 +320,7 @@ Areas include:
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 ```text
 Advanced Machine Learning
@@ -376,11 +356,11 @@ Currently focusing on:
 
 ### 🏅 Smart India Hackathon
 
-Participated in **Smart India Hackathon**, with the team achieving a **Top 10 position**.
+Participated in **Smart India Hackathon 2025**, with the team achieving a position among **Top 10** in the college in SIH 2025.
 
 ### 💻 Technical Internships
 
-* Cybersecurity Internship — DataSpace Academy
+* Deep Learning Custom Architecture research intern - NIT Durgapur
 * Advanced Linux Internship — Webel
 
 ---
@@ -395,7 +375,7 @@ My long-term goal is to work on **research-driven AI systems that can transition
 
 ---
 
-# 📈 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
@@ -407,7 +387,7 @@ My long-term goal is to work on **research-driven AI systems that can transition
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=aritramukhopadhyay2004&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
