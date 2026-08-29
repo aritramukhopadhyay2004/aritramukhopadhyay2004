@@ -35,7 +35,7 @@ My interests include:
 
 ---
 <p align="center">
-# 🛠️ Tech Stack
+<b># 🛠️ Tech Stack </b>
 </p>
 
 <p align="center">
