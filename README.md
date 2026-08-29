@@ -32,21 +32,24 @@ My interests include:
 * ☁️ Cloud Deployment & MLOps
 * 🔬 AI Research & Experimentation
 
-> **I don't just train models — I focus on building complete AI-powered systems around them.**
 
 ---
-
+<p align="center">
 # 🛠️ Tech Stack
+</p>
 
-## 👨‍💻 Programming Languages
+<p align="center">
+## Programming Languages
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,r" />
 </p>
 
 ---
-
-## 🤖 AI / Machine Learning
+<p align="center">
+## AI / Machine Learning
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
@@ -82,8 +85,9 @@ My interests include:
 </p>
 
 ---
-
-# 🧠 Generative AI & LLM
+<p align="center">
+# Generative AI & LLM
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
