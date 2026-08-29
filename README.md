@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aritra Mukhopadhyay
+# Hi, I'm Aritra Mukhopadhyay
 
 ### AI/ML Engineer • Full-Stack Developer • Research Enthusiast
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm **Aritra Mukhopadhyay**, an aspiring **AI/ML Engineer and Full-Stack Developer** currently pursuing **B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)** at **The Neotia University**.
 
